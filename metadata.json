@@ -1,0 +1,6 @@
+{
+  "name": "ZK-ML Provable Inference Verifier",
+  "description": "An interactive Zero-Knowledge Machine Learning (zkML) prototype for provable AI inference, weight attestation, and cryptographic verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
