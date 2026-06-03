@@ -11,7 +11,7 @@
 
 ---
 
-## ✦ Introduction
+##  Introduction
 
 Traditional AI inference pipelines operate entirely under the assumption of implicit trust in cloud host providers. If you ask a provider to execute a Large Language Model (like Llama-2-7b-hf), you must trust that they ran the authentic, unmodified weights without alterations or model spoofing.
 
